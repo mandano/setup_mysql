@@ -1,1 +1,1 @@
-# Non-interactive mysql database setup - Ubuntu/Debian
+# Mysql database setup - non-interactive - Ubuntu/Debian
